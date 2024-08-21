@@ -98,4 +98,11 @@ pipeline {
 
 
     }
+    post {
+        always {
+            echo 'Cleaning workspace...'
+            docker system prune -a -f
+            deleteDir()
+        }
+    }
 }
