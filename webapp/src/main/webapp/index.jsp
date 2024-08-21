@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>RELANTO APPLICATION: 2:08 pm</h1>
+    <h1>RELANTO APPLICATION: 21/8/24 7:31pm</h1>
     <h1>NEW USER REGISTRATION</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
